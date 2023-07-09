@@ -104,3 +104,27 @@ body{
     line-height: 35px;
 }
 /* my plan section css end */
+
+/* mindset section css start */
+.mindset{
+    width: 80%;
+    margin: 0 auto 120px auto;
+    background-image: url('../images/watch.png'), linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%);
+    background-blend-mode: overlay;
+    height: 45vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.mindset-content{
+    padding: 30px 50px;
+}
+
+.mindset-content h1{
+    font-size:30px;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 600;
+}
+/* mindset section css end */
