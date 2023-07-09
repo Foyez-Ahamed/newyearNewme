@@ -48,3 +48,37 @@ body{
 }
 
 /* banner section css end */
+
+/* previous year section css start */
+.previous-year{
+    width: 80%;
+    margin: 120px auto 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 40px;
+}
+
+.previous-content h1{
+    margin-top: 100px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.previous-content p{
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.previous-content ul{
+    margin-top: 25px;
+    padding-left: 15px;
+}
+
+.previous-content ul li{
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 300;
+}
+/* previous year section css end */
